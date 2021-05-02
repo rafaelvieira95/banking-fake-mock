@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sotiBf9DCYy4PFbcemw0zOx3ZzTLEu4XIeEJPPF36gfvLeEwEnLnHZJ89v0UCB3szSH0/uiedC8Upeq2sdg3Q==",
+  "success": true,
+  "projectFilePath": "/home/rafael/Documents/Dotnet GIT/banking-fake-mock/BankingAPI/BankingAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/rafael/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
